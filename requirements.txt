@@ -3,3 +3,4 @@ notebook==7.3.2
 matplotlib==3.10.1
 scikit-learn==1.6.1
 seaborn==0.13.2
+xgboost==3.0.0
