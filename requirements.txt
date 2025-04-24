@@ -8,3 +8,5 @@ plotly==6.0.1
 hdbscan==0.8.40
 geopandas==1.0.1
 contextily==1.6.2
+umap-learn==0.5.7
+ipywidgets==8.1.6
